@@ -31,6 +31,10 @@ nav {
     font-size: 25px;
 }
 
+.address img {
+    margin-left: 26px;
+}
+
 footer ul li a {
     text-decoration: none;
 }
