@@ -27,6 +27,14 @@ nav {
     margin-right: 5px;
 }
 
-footer .address ul li a {
+.social-links .fa {
+    font-size: 25px;
+}
+
+footer ul li a {
     text-decoration: none;
+}
+
+footer .useful-links i {
+    margin-right: 5px;
 }
