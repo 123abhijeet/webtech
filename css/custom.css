@@ -30,3 +30,16 @@ nav {
 footer .address ul li a {
     text-decoration: none;
 }
+.fa-angle-right {
+    float: right;
+}
+
+.right {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+.right .fa {
+    font-size: 2.5em;
+}
